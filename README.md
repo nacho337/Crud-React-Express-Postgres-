@@ -10,3 +10,11 @@ Tecnologías utilizadas
 Front end: React
 API backend: Express
 Server: PostgreSQL
+
+Para iniciar el backend
+Navegar a la Carpeta Server
+Ejecute el nodemon index comando en una terminal
+
+Para iniciar la interfaz
+Navegar a la Carpeta Client
+Ejecute el npm start comando en una terminal
